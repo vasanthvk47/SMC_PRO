@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='home.css') }}">
+</head>
+<body>
+<div class="container mt-5">
+    <h2>Welcome, {{ username }}</h2>
+
+    <form action="{{ url_for('predict') }}" method="POST" class="mb-4">
+        <div class="row mb-2 g-3">
+            <div class="col-md-3">
+                <label class="form-label">Government Type</label>
+                <select name="government_type" class="form-select">
+                    <option value="">-- Select --</option>
+                    <option value="government">Government</option>
+                    <option value="private">Self-financed</option>
+                    <option value="government-aided">Government-aided</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label class="form-label">Hostel Status</label>
+                <select name="hostel_status" class="form-select">
+                    <option value="">-- Select --</option>
+                    <option value="Boys & Girls">Available for Both</option>
+                    <option value="Boys">Available for Boys</option>
+                    <option value="Girls">Available for Girls</option>
+                    <option value="No Hostels for both">Not Available</option>
+                </select>
+            </div>
+            <div class="col-md-3">
+                <label class="form-label">Cutoff</label>
+                <input type="number" name="cutoff" class="form-control" placeholder="Enter cutoff">
+            </div>
+            <div class="col-md-3">
+                <label class="form-label">Fees</label>
+                <input type="number" name="fees" class="form-control" placeholder="Enter fees">
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary mt-2">Predict & Filter</button>
+    </form>
+
+    {% if prediction %}
+    <div class="alert alert-info">
+        <h5>Prediction Result:</h5>
+        <p class="mb-0"><strong>{{ prediction }}</strong></p>
+    </div>
+    {% endif %}
+    <!-- Add this below the prediction result -->
+    {% if search_criteria %}
+    <div class="alert alert-secondary mt-3">
+        <h5>Your Search Criteria:</h5>
+        <ul class="mb-0">
+            {% if search_criteria.government_type %}
+            <li>Government Type: {{ search_criteria.government_type }}</li>
+            {% endif %}
+            {% if search_criteria.hostel_status %}
+            <li>Hostel Status: {{ search_criteria.hostel_status }}</li>
+            {% endif %}
+            {% if search_criteria.cutoff %}
+            <li>Cutoff: {{ search_criteria.cutoff }}</li>
+            {% endif %}
+            {% if search_criteria.fees %}
+            <li>Fees: {{ search_criteria.fees }}</li>
+            {% endif %}
+        </ul>
+    </div>
+{% endif %}
+    <h4 class="mt-4">Matching Colleges:</h4>
+    {% if colleges %}
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover">
+            <thead class="table-primary">
+                <tr>
+                    {% for col in colleges[0].keys() %}
+                    <th>{{ col }}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for college in colleges %}
+                <tr>
+                    {% for value in college.values() %}
+                    <td>{{ value }}</td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% else %}
+    <div class="alert alert-warning">
+        No colleges match your search criteria.
+    </div>
+    {% endif %}
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,301 @@
+College Code,College Name,Address,Phone Number,Pincode,Principal,Fees,Hostel Stats,Hostel for Boys,Hostel for Girls,Co-education,Cutoff,Government Type,Senior Phone Number
+C001,MNO School of Business,"606, Pine Street, City I",9456127890,750464,Prof. Anjali Patel,36159,Available for Both,No,No,Yes,"['College_120', 'College_121']",Self-financed,9988776655
+C002,PQR College of Arts,"404, Oak Street, City G",9045671234,166582,Dr. Neha Bhatia,34228,Available for Both,No,No,No,"['College_99', 'College_100']",Self-financed,9008765432
+C003,PQR College of Arts,"456, High Road, City B",9123456789,273502,Prof. Sandeep Jha,46640,Not Available,No,No,No,"['College_131', 'College_132']",Self-financed,9301234567
+C004,MNO School of Business,"606, Pine Street, City I",9008765432,422185,Prof. Vikram Singh,28015,Available for Both,No,No,Yes,"['College_157', 'College_158']",Government,9008765432
+C005,UVW Institute of Design,"202, River Road, City E",9988776655,499536,Dr. Manisha Rao,45435,Limited,No,No,Yes,"['College_132', 'College_133']",Self-financed,9234567890
+C006,MNO School of Business,"202, River Road, City E",9234567890,278770,Prof. Sunita Verma,33482,Available for Both,No,No,No,"['College_112', 'College_113']",Government,9876543210
+C007,PQR College of Arts,"202, River Road, City E",9456127890,204617,Dr. Praveen Mehta,31370,Available for Girls,No,Yes,Yes,"['College_191', 'College_192']",Government-aided,9609876543
+C008,MNO School of Business,"505, Maple Street, City H",9609876543,135181,Dr. Rajesh Kumar,46951,Available for Boys,Yes,No,No,"['College_189', 'College_190']",Self-financed,9456127890
+C009,GHI Institute of Management,"303, Elm Street, City F",9609876543,955291,Dr. Praveen Mehta,26482,Available for Boys,Yes,No,Yes,"['College_140', 'College_141']",Government-aided,9008765432
+C010,MNO School of Business,"123, Main Street, City A",9301234567,239127,Prof. Sunita Verma,49892,Limited,No,No,No,"['College_119', 'College_120']",Self-financed,9182736450
+C011,MNO School of Business,"101, Sunset Boulevard, City D",9234567890,532555,Prof. Anjali Patel,34321,Limited,No,No,No,"['College_123', 'College_124']",Government-aided,9008765432
+C012,PQR College of Arts,"707, Birch Street, City J",9234567890,447787,Prof. Anjali Patel,26747,Available for Both,No,No,No,"['College_188', 'College_189']",Government-aided,9234567890
+C013,RST College of Medical Sciences,"456, High Road, City B",9182736450,357388,Dr. Neha Bhatia,42131,Available,No,No,No,"['College_111', 'College_112']",Government,9609876543
+C014,JKL College of Law,"505, Maple Street, City H",9045671234,649014,Prof. Vikram Singh,21560,Available for Girls,No,Yes,No,"['College_149', 'College_150']",Government-aided,9988776655
+C015,ABC College of Engineering,"606, Pine Street, City I",9234567890,872935,Prof. Sandeep Jha,23697,Available for Girls,No,Yes,Yes,"['College_143', 'College_144']",Self-financed,9045671234
+C016,MNO School of Business,"707, Birch Street, City J",9456127890,636544,Dr. Neha Bhatia,39884,Limited,No,No,No,"['College_125', 'College_126']",Self-financed,9045671234
+C017,JKL College of Law,"303, Elm Street, City F",9301234567,231377,Prof. Sunita Verma,31865,Available for Girls,No,Yes,No,"['College_138', 'College_139']",Government,9456127890
+C018,MNO School of Business,"202, River Road, City E",9456127890,833921,Prof. Anjali Patel,28040,Available for Both,No,No,No,"['College_143', 'College_144']",Self-financed,9182736450
+C019,RST College of Medical Sciences,"456, High Road, City B",9988776655,530476,Dr. Manisha Rao,33658,Available for Both,No,No,Yes,"['College_142', 'College_143']",Government-aided,9008765432
+C020,LMN College of Science,"123, Main Street, City A",9456127890,954398,Dr. Praveen Mehta,27152,Available for Boys,Yes,No,Yes,"['College_140', 'College_141']",Government,9988776655
+C021,ABC College of Engineering,"606, Pine Street, City I",9301234567,677297,Prof. Anjali Patel,46167,Not Available,No,No,Yes,"['College_193', 'College_194']",Government-aided,9456127890
+C022,DEF University,"505, Maple Street, City H",9456127890,607011,Dr. Neha Bhatia,32123,Available for Boys,Yes,No,No,"['College_186', 'College_187']",Government-aided,9988776655
+C023,UVW Institute of Design,"789, Park Avenue, City C",9456127890,255410,Dr. Manisha Rao,31532,Not Available,No,No,No,"['College_177', 'College_178']",Government-aided,9234567890
+C024,RST College of Medical Sciences,"789, Park Avenue, City C",9182736450,554074,Dr. Praveen Mehta,26785,Available for Girls,No,Yes,Yes,"['College_199', 'College_200']",Self-financed,9456127890
+C025,GHI Institute of Management,"456, High Road, City B",9182736450,320692,Dr. Ramesh Nair,20537,Available for Boys,Yes,No,Yes,"['College_164', 'College_165']",Government-aided,9045671234
+C026,LMN College of Science,"123, Main Street, City A",9301234567,178277,Prof. Sunita Verma,35825,Available for Girls,No,Yes,No,"['College_105', 'College_106']",Government-aided,9045671234
+C027,UVW Institute of Design,"606, Pine Street, City I",9988776655,171984,Prof. Arvind Sharma,24607,Available for Girls,No,Yes,No,"['College_112', 'College_113']",Government-aided,9876543210
+C028,LMN College of Science,"505, Maple Street, City H",9301234567,424513,Prof. Vikram Singh,34292,Available for Both,No,No,No,"['College_131', 'College_132']",Government-aided,9988776655
+C029,XYZ Institute of Technology,"606, Pine Street, City I",9182736450,474612,Prof. Vikram Singh,23192,Not Available,No,No,Yes,"['College_128', 'College_129']",Self-financed,9988776655
+C030,LMN College of Science,"404, Oak Street, City G",9123456789,755257,Prof. Anjali Patel,45781,Available for Girls,No,Yes,Yes,"['College_148', 'College_149']",Government,9301234567
+C031,LMN College of Science,"303, Elm Street, City F",9876543210,439198,Prof. Sunita Verma,49436,Available for Girls,No,Yes,Yes,"['College_164', 'College_165']",Government-aided,9876543210
+C032,DEF University,"123, Main Street, City A",9609876543,223819,Dr. Praveen Mehta,25864,Not Available,No,No,Yes,"['College_194', 'College_195']",Government,9182736450
+C033,PQR College of Arts,"404, Oak Street, City G",9045671234,799692,Dr. Neha Bhatia,36595,Available for Boys,Yes,No,Yes,"['College_133', 'College_134']",Self-financed,9301234567
+C034,UVW Institute of Design,"123, Main Street, City A",9045671234,300636,Dr. Praveen Mehta,45057,Available for Both,No,No,Yes,"['College_151', 'College_152']",Government-aided,9182736450
+C035,MNO School of Business,"202, River Road, City E",9301234567,672850,Prof. Anjali Patel,23541,Not Available,No,No,No,"['College_126', 'College_127']",Government,9045671234
+C036,UVW Institute of Design,"456, High Road, City B",9609876543,966543,Prof. Anjali Patel,44367,Available for Girls,No,Yes,No,"['College_151', 'College_152']",Government,9008765432
+C037,RST College of Medical Sciences,"101, Sunset Boulevard, City D",9182736450,267001,Dr. Rajesh Kumar,38311,Limited,No,No,No,"['College_179', 'College_180']",Government-aided,9456127890
+C038,JKL College of Law,"707, Birch Street, City J",9123456789,686427,Dr. Neha Bhatia,27849,Not Available,No,No,No,"['College_173', 'College_174']",Government,9123456789
+C039,GHI Institute of Management,"505, Maple Street, City H",9609876543,996178,Dr. Ramesh Nair,24517,Not Available,No,No,No,"['College_179', 'College_180']",Self-financed,9456127890
+C040,LMN College of Science,"404, Oak Street, City G",9301234567,156256,Prof. Sunita Verma,37033,Available for Boys,Yes,No,No,"['College_183', 'College_184']",Government-aided,9456127890
+C041,JKL College of Law,"404, Oak Street, City G",9876543210,589684,Dr. Ramesh Nair,37591,Not Available,No,No,Yes,"['College_111', 'College_112']",Self-financed,9123456789
+C042,PQR College of Arts,"123, Main Street, City A",9301234567,892341,Dr. Rajesh Kumar,36192,Available for Boys,Yes,No,No,"['College_132', 'College_133']",Self-financed,9456127890
+C043,XYZ Institute of Technology,"456, High Road, City B",9609876543,901289,Dr. Manisha Rao,29486,Not Available,No,No,Yes,"['College_174', 'College_175']",Government,9045671234
+C044,ABC College of Engineering,"123, Main Street, City A",9008765432,844417,Prof. Vikram Singh,36141,Available for Both,No,No,No,"['College_140', 'College_141']",Government-aided,9008765432
+C045,ABC College of Engineering,"123, Main Street, City A",9456127890,958622,Dr. Manisha Rao,38578,Available for Boys,Yes,No,Yes,"['College_115', 'College_116']",Government,9234567890
+C046,RST College of Medical Sciences,"404, Oak Street, City G",9988776655,923948,Prof. Anjali Patel,29072,Available for Boys,Yes,No,Yes,"['College_163', 'College_164']",Government-aided,9182736450
+C047,PQR College of Arts,"303, Elm Street, City F",9988776655,786712,Prof. Arvind Sharma,39942,Available,No,No,Yes,"['College_100', 'College_101']",Self-financed,9876543210
+C048,DEF University,"123, Main Street, City A",9988776655,863935,Dr. Praveen Mehta,30672,Available for Girls,No,Yes,Yes,"['College_125', 'College_126']",Self-financed,9301234567
+C049,GHI Institute of Management,"101, Sunset Boulevard, City D",9456127890,443657,Dr. Manisha Rao,25804,Available for Boys,Yes,No,No,"['College_191', 'College_192']",Government-aided,9609876543
+C050,DEF University,"505, Maple Street, City H",9008765432,395484,Dr. Praveen Mehta,26285,Available for Both,No,No,Yes,"['College_169', 'College_170']",Self-financed,9609876543
+C051,JKL College of Law,"303, Elm Street, City F",9182736450,277289,Dr. Neha Bhatia,20642,Limited,No,No,Yes,"['College_111', 'College_112']",Self-financed,9045671234
+C052,ABC College of Engineering,"101, Sunset Boulevard, City D",9876543210,675756,Prof. Arvind Sharma,35823,Available for Girls,No,Yes,Yes,"['College_116', 'College_117']",Self-financed,9609876543
+C053,MNO School of Business,"505, Maple Street, City H",9456127890,526310,Prof. Vikram Singh,24957,Limited,No,No,Yes,"['College_150', 'College_151']",Government,9123456789
+C054,UVW Institute of Design,"101, Sunset Boulevard, City D",9456127890,969838,Prof. Arvind Sharma,43844,Available for Girls,No,Yes,Yes,"['College_198', 'College_199']",Government-aided,9876543210
+C055,XYZ Institute of Technology,"303, Elm Street, City F",9182736450,281740,Dr. Praveen Mehta,41938,Available,No,No,Yes,"['College_195', 'College_196']",Government,9609876543
+C056,ABC College of Engineering,"789, Park Avenue, City C",9301234567,196787,Prof. Sunita Verma,36268,Available for Boys,Yes,No,Yes,"['College_103', 'College_104']",Government-aided,9876543210
+C057,XYZ Institute of Technology,"456, High Road, City B",9182736450,241881,Prof. Sandeep Jha,47755,Available for Girls,No,Yes,No,"['College_159', 'College_160']",Self-financed,9045671234
+C058,JKL College of Law,"707, Birch Street, City J",9456127890,130496,Prof. Vikram Singh,27440,Limited,No,No,Yes,"['College_130', 'College_131']",Government-aided,9045671234
+C059,GHI Institute of Management,"707, Birch Street, City J",9008765432,373955,Prof. Sunita Verma,24325,Available,No,No,No,"['College_185', 'College_186']",Government-aided,9234567890
+C060,JKL College of Law,"123, Main Street, City A",9988776655,943260,Dr. Praveen Mehta,48775,Limited,No,No,No,"['College_111', 'College_112']",Government,9123456789
+C061,LMN College of Science,"202, River Road, City E",9182736450,968191,Dr. Ramesh Nair,26490,Available,No,No,No,"['College_133', 'College_134']",Self-financed,9301234567
+C062,PQR College of Arts,"303, Elm Street, City F",9182736450,966999,Dr. Neha Bhatia,36349,Available,No,No,Yes,"['College_122', 'College_123']",Self-financed,9008765432
+C063,GHI Institute of Management,"505, Maple Street, City H",9234567890,466385,Dr. Rajesh Kumar,28167,Available,No,No,Yes,"['College_141', 'College_142']",Government-aided,9876543210
+C064,JKL College of Law,"505, Maple Street, City H",9456127890,408674,Dr. Rajesh Kumar,24583,Available,No,No,Yes,"['College_155', 'College_156']",Government-aided,9045671234
+C065,XYZ Institute of Technology,"303, Elm Street, City F",9609876543,351929,Dr. Praveen Mehta,37433,Not Available,No,No,Yes,"['College_198', 'College_199']",Self-financed,9123456789
+C066,JKL College of Law,"505, Maple Street, City H",9609876543,173017,Dr. Ramesh Nair,48566,Available,No,No,Yes,"['College_120', 'College_121']",Self-financed,9234567890
+C067,DEF University,"456, High Road, City B",9456127890,378255,Dr. Neha Bhatia,40330,Available for Both,No,No,No,"['College_156', 'College_157']",Government,9609876543
+C068,GHI Institute of Management,"707, Birch Street, City J",9045671234,677616,Dr. Manisha Rao,28733,Not Available,No,No,No,"['College_183', 'College_184']",Self-financed,9182736450
+C069,JKL College of Law,"404, Oak Street, City G",9182736450,531211,Prof. Arvind Sharma,45842,Not Available,No,No,No,"['College_165', 'College_166']",Government-aided,9609876543
+C070,LMN College of Science,"202, River Road, City E",9123456789,442289,Prof. Vikram Singh,35056,Available for Boys,Yes,No,No,"['College_140', 'College_141']",Government-aided,9182736450
+C071,MNO School of Business,"101, Sunset Boulevard, City D",9182736450,113216,Prof. Arvind Sharma,28374,Limited,No,No,Yes,"['College_109', 'College_110']",Self-financed,9182736450
+C072,JKL College of Law,"707, Birch Street, City J",9609876543,791771,Prof. Sunita Verma,39495,Not Available,No,No,Yes,"['College_164', 'College_165']",Government,9609876543
+C073,MNO School of Business,"606, Pine Street, City I",9234567890,447671,Prof. Sunita Verma,43736,Available for Boys,Yes,No,No,"['College_137', 'College_138']",Government-aided,9876543210
+C074,RST College of Medical Sciences,"303, Elm Street, City F",9609876543,518244,Prof. Arvind Sharma,39950,Not Available,No,No,Yes,"['College_172', 'College_173']",Government,9045671234
+C075,XYZ Institute of Technology,"101, Sunset Boulevard, City D",9045671234,859847,Prof. Vikram Singh,38230,Available for Girls,No,Yes,No,"['College_198', 'College_199']",Self-financed,9609876543
+C076,RST College of Medical Sciences,"202, River Road, City E",9234567890,953660,Prof. Sunita Verma,39292,Available for Girls,No,Yes,Yes,"['College_148', 'College_149']",Self-financed,9008765432
+C077,ABC College of Engineering,"404, Oak Street, City G",9456127890,444704,Prof. Sunita Verma,35907,Available,No,No,No,"['College_108', 'College_109']",Government-aided,9234567890
+C078,DEF University,"202, River Road, City E",9876543210,460689,Dr. Manisha Rao,25301,Limited,No,No,No,"['College_141', 'College_142']",Self-financed,9456127890
+C079,LMN College of Science,"404, Oak Street, City G",9008765432,500644,Prof. Sunita Verma,41199,Available for Both,No,No,Yes,"['College_169', 'College_170']",Government-aided,9234567890
+C080,RST College of Medical Sciences,"707, Birch Street, City J",9008765432,108789,Prof. Anjali Patel,39297,Available,No,No,Yes,"['College_118', 'College_119']",Government-aided,9988776655
+C081,RST College of Medical Sciences,"505, Maple Street, City H",9988776655,512191,Dr. Manisha Rao,45681,Available for Girls,No,Yes,Yes,"['College_162', 'College_163']",Government-aided,9456127890
+C082,GHI Institute of Management,"606, Pine Street, City I",9876543210,227112,Prof. Sandeep Jha,49193,Available for Boys,Yes,No,Yes,"['College_167', 'College_168']",Government-aided,9008765432
+C083,DEF University,"123, Main Street, City A",9045671234,816206,Prof. Arvind Sharma,23979,Available for Boys,Yes,No,Yes,"['College_186', 'College_187']",Government-aided,9045671234
+C084,RST College of Medical Sciences,"202, River Road, City E",9609876543,121825,Prof. Arvind Sharma,22448,Available for Girls,No,Yes,No,"['College_116', 'College_117']",Government,9456127890
+C085,ABC College of Engineering,"101, Sunset Boulevard, City D",9123456789,590369,Dr. Neha Bhatia,38952,Available for Both,No,No,Yes,"['College_168', 'College_169']",Government-aided,9234567890
+C086,UVW Institute of Design,"202, River Road, City E",9301234567,205404,Prof. Anjali Patel,47149,Available,No,No,Yes,"['College_159', 'College_160']",Government,9609876543
+C087,XYZ Institute of Technology,"404, Oak Street, City G",9234567890,920616,Dr. Rajesh Kumar,44454,Available,No,No,No,"['College_103', 'College_104']",Government-aided,9609876543
+C088,UVW Institute of Design,"606, Pine Street, City I",9234567890,861405,Dr. Praveen Mehta,43765,Available,No,No,Yes,"['College_110', 'College_111']",Self-financed,9045671234
+C089,ABC College of Engineering,"101, Sunset Boulevard, City D",9234567890,684319,Prof. Arvind Sharma,24958,Available for Both,No,No,Yes,"['College_127', 'College_128']",Government-aided,9008765432
+C090,GHI Institute of Management,"404, Oak Street, City G",9301234567,482681,Prof. Arvind Sharma,23934,Available for Boys,Yes,No,No,"['College_123', 'College_124']",Government-aided,9988776655
+C091,XYZ Institute of Technology,"789, Park Avenue, City C",9456127890,171440,Prof. Sunita Verma,43273,Available,No,No,Yes,"['College_172', 'College_173']",Self-financed,9182736450
+C092,RST College of Medical Sciences,"123, Main Street, City A",9234567890,588116,Dr. Ramesh Nair,22499,Available for Both,No,No,Yes,"['College_121', 'College_122']",Self-financed,9456127890
+C093,XYZ Institute of Technology,"101, Sunset Boulevard, City D",9988776655,295863,Prof. Arvind Sharma,28294,Available for Girls,No,Yes,Yes,"['College_116', 'College_117']",Government-aided,9182736450
+C094,MNO School of Business,"303, Elm Street, City F",9876543210,492087,Dr. Neha Bhatia,37882,Available for Girls,No,Yes,Yes,"['College_145', 'College_146']",Self-financed,9876543210
+C095,XYZ Institute of Technology,"123, Main Street, City A",9234567890,510797,Prof. Anjali Patel,37337,Available for Girls,No,Yes,No,"['College_156', 'College_157']",Self-financed,9008765432
+C096,GHI Institute of Management,"101, Sunset Boulevard, City D",9609876543,457794,Dr. Ramesh Nair,45247,Available,No,No,No,"['College_177', 'College_178']",Self-financed,9609876543
+C097,GHI Institute of Management,"789, Park Avenue, City C",9988776655,231049,Prof. Arvind Sharma,20773,Available for Girls,No,Yes,No,"['College_125', 'College_126']",Self-financed,9234567890
+C098,MNO School of Business,"606, Pine Street, City I",9045671234,541722,Dr. Rajesh Kumar,47414,Available for Both,No,No,Yes,"['College_121', 'College_122']",Self-financed,9234567890
+C099,JKL College of Law,"101, Sunset Boulevard, City D",9182736450,560141,Prof. Vikram Singh,36867,Limited,No,No,Yes,"['College_157', 'College_158']",Government,9182736450
+C100,PQR College of Arts,"303, Elm Street, City F",9609876543,134808,Prof. Anjali Patel,46342,Limited,No,No,Yes,"['College_192', 'College_193']",Self-financed,9008765432
+C101,PQR College of Arts,"123, Main Street, City A",9456127890,473042,Dr. Ramesh Nair,23301,Limited,No,No,No,"['College_150', 'College_151']",Government,9456127890
+C102,PQR College of Arts,"505, Maple Street, City H",9182736450,897700,Prof. Arvind Sharma,33478,Limited,No,No,Yes,"['College_145', 'College_146']",Government-aided,9609876543
+C103,PQR College of Arts,"789, Park Avenue, City C",9456127890,770657,Prof. Sandeep Jha,42380,Available for Girls,No,Yes,No,"['College_180', 'College_181']",Government-aided,9456127890
+C104,DEF University,"404, Oak Street, City G",9609876543,945417,Dr. Praveen Mehta,20794,Available for Both,No,No,No,"['College_172', 'College_173']",Self-financed,9456127890
+C105,ABC College of Engineering,"606, Pine Street, City I",9182736450,599355,Prof. Anjali Patel,23604,Available for Boys,Yes,No,Yes,"['College_146', 'College_147']",Government,9609876543
+C106,MNO School of Business,"202, River Road, City E",9876543210,328727,Prof. Arvind Sharma,34755,Available for Girls,No,Yes,No,"['College_190', 'College_191']",Self-financed,9234567890
+C107,JKL College of Law,"505, Maple Street, City H",9456127890,187252,Dr. Ramesh Nair,30787,Available,No,No,No,"['College_109', 'College_110']",Self-financed,9182736450
+C108,XYZ Institute of Technology,"303, Elm Street, City F",9456127890,352617,Prof. Vikram Singh,28930,Available for Boys,Yes,No,Yes,"['College_140', 'College_141']",Government,9008765432
+C109,PQR College of Arts,"123, Main Street, City A",9609876543,998352,Prof. Arvind Sharma,38344,Available for Girls,No,Yes,No,"['College_192', 'College_193']",Government,9008765432
+C110,ABC College of Engineering,"123, Main Street, City A",9301234567,540436,Dr. Neha Bhatia,32465,Available for Both,No,No,Yes,"['College_103', 'College_104']",Government,9609876543
+C111,RST College of Medical Sciences,"789, Park Avenue, City C",9456127890,718078,Dr. Rajesh Kumar,49568,Limited,No,No,No,"['College_148', 'College_149']",Government,9456127890
+C112,RST College of Medical Sciences,"456, High Road, City B",9988776655,249252,Prof. Anjali Patel,29046,Limited,No,No,No,"['College_116', 'College_117']",Self-financed,9988776655
+C113,RST College of Medical Sciences,"404, Oak Street, City G",9182736450,588457,Dr. Neha Bhatia,35533,Limited,No,No,Yes,"['College_169', 'College_170']",Government-aided,9008765432
+C114,MNO School of Business,"505, Maple Street, City H",9609876543,830386,Prof. Arvind Sharma,30380,Available for Girls,No,Yes,No,"['College_137', 'College_138']",Government,9609876543
+C115,UVW Institute of Design,"707, Birch Street, City J",9301234567,529583,Dr. Neha Bhatia,47348,Available for Girls,No,Yes,No,"['College_155', 'College_156']",Self-financed,9182736450
+C116,LMN College of Science,"123, Main Street, City A",9988776655,163586,Dr. Rajesh Kumar,37076,Limited,No,No,Yes,"['College_198', 'College_199']",Self-financed,9301234567
+C117,PQR College of Arts,"101, Sunset Boulevard, City D",9234567890,791597,Dr. Neha Bhatia,21223,Available for Girls,No,Yes,Yes,"['College_188', 'College_189']",Government-aided,9876543210
+C118,XYZ Institute of Technology,"101, Sunset Boulevard, City D",9008765432,233335,Dr. Praveen Mehta,20837,Limited,No,No,Yes,"['College_197', 'College_198']",Self-financed,9988776655
+C119,DEF University,"707, Birch Street, City J",9123456789,333964,Dr. Rajesh Kumar,44950,Available for Boys,Yes,No,Yes,"['College_144', 'College_145']",Self-financed,9182736450
+C120,GHI Institute of Management,"303, Elm Street, City F",9876543210,591618,Prof. Sandeep Jha,43704,Available for Both,No,No,Yes,"['College_182', 'College_183']",Self-financed,9123456789
+C121,XYZ Institute of Technology,"202, River Road, City E",9008765432,422890,Prof. Arvind Sharma,45252,Limited,No,No,Yes,"['College_110', 'College_111']",Government,9045671234
+C122,GHI Institute of Management,"101, Sunset Boulevard, City D",9234567890,454643,Prof. Vikram Singh,44377,Limited,No,No,Yes,"['College_155', 'College_156']",Government-aided,9301234567
+C123,XYZ Institute of Technology,"123, Main Street, City A",9876543210,202743,Dr. Neha Bhatia,20417,Available for Girls,No,Yes,Yes,"['College_169', 'College_170']",Self-financed,9123456789
+C124,ABC College of Engineering,"101, Sunset Boulevard, City D",9609876543,667551,Prof. Arvind Sharma,42150,Limited,No,No,Yes,"['College_132', 'College_133']",Government,9456127890
+C125,RST College of Medical Sciences,"123, Main Street, City A",9045671234,101541,Prof. Sunita Verma,22705,Available for Boys,Yes,No,No,"['College_164', 'College_165']",Government,9182736450
+C126,UVW Institute of Design,"202, River Road, City E",9301234567,345689,Prof. Anjali Patel,34058,Available,No,No,No,"['College_134', 'College_135']",Government-aided,9045671234
+C127,MNO School of Business,"505, Maple Street, City H",9045671234,607096,Prof. Arvind Sharma,25057,Available for Both,No,No,Yes,"['College_139', 'College_140']",Government-aided,9456127890
+C128,ABC College of Engineering,"456, High Road, City B",9123456789,108756,Prof. Sandeep Jha,45725,Available,No,No,No,"['College_121', 'College_122']",Government,9301234567
+C129,MNO School of Business,"123, Main Street, City A",9234567890,396546,Prof. Sandeep Jha,35628,Available for Both,No,No,Yes,"['College_198', 'College_199']",Self-financed,9234567890
+C130,JKL College of Law,"505, Maple Street, City H",9876543210,669973,Dr. Manisha Rao,34627,Available for Both,No,No,Yes,"['College_193', 'College_194']",Government,9609876543
+C131,XYZ Institute of Technology,"789, Park Avenue, City C",9182736450,554120,Prof. Vikram Singh,48834,Available for Girls,No,Yes,No,"['College_174', 'College_175']",Government,9876543210
+C132,GHI Institute of Management,"789, Park Avenue, City C",9876543210,795920,Prof. Sunita Verma,36017,Available for Boys,Yes,No,No,"['College_190', 'College_191']",Government-aided,9182736450
+C133,PQR College of Arts,"404, Oak Street, City G",9456127890,700802,Dr. Praveen Mehta,35204,Not Available,No,No,Yes,"['College_106', 'College_107']",Self-financed,9456127890
+C134,DEF University,"123, Main Street, City A",9123456789,786691,Dr. Praveen Mehta,32026,Limited,No,No,No,"['College_162', 'College_163']",Government,9609876543
+C135,ABC College of Engineering,"707, Birch Street, City J",9456127890,748894,Dr. Neha Bhatia,24933,Available for Girls,No,Yes,No,"['College_130', 'College_131']",Government,9008765432
+C136,UVW Institute of Design,"707, Birch Street, City J",9301234567,288795,Prof. Arvind Sharma,48576,Not Available,No,No,Yes,"['College_103', 'College_104']",Government,9234567890
+C137,LMN College of Science,"606, Pine Street, City I",9008765432,145251,Prof. Sunita Verma,22806,Not Available,No,No,No,"['College_149', 'College_150']",Self-financed,9182736450
+C138,MNO School of Business,"606, Pine Street, City I",9609876543,554414,Dr. Praveen Mehta,33153,Not Available,No,No,Yes,"['College_185', 'College_186']",Self-financed,9456127890
+C139,PQR College of Arts,"101, Sunset Boulevard, City D",9045671234,897851,Dr. Manisha Rao,34749,Available for Girls,No,Yes,Yes,"['College_184', 'College_185']",Government,9301234567
+C140,LMN College of Science,"202, River Road, City E",9609876543,886203,Prof. Anjali Patel,26374,Available for Both,No,No,No,"['College_150', 'College_151']",Self-financed,9988776655
+C141,LMN College of Science,"505, Maple Street, City H",9182736450,179217,Dr. Neha Bhatia,33397,Available for Girls,No,Yes,No,"['College_114', 'College_115']",Government-aided,9301234567
+C142,XYZ Institute of Technology,"202, River Road, City E",9301234567,155642,Prof. Arvind Sharma,23987,Available for Girls,No,Yes,Yes,"['College_192', 'College_193']",Self-financed,9988776655
+C143,XYZ Institute of Technology,"456, High Road, City B",9234567890,346284,Prof. Anjali Patel,21175,Available for Both,No,No,No,"['College_116', 'College_117']",Government,9301234567
+C144,ABC College of Engineering,"789, Park Avenue, City C",9988776655,308582,Prof. Arvind Sharma,36790,Available for Girls,No,Yes,Yes,"['College_138', 'College_139']",Government-aided,9234567890
+C145,GHI Institute of Management,"606, Pine Street, City I",9123456789,538751,Prof. Vikram Singh,43304,Limited,No,No,No,"['College_160', 'College_161']",Government,9123456789
+C146,MNO School of Business,"123, Main Street, City A",9182736450,591177,Dr. Neha Bhatia,38554,Available for Both,No,No,No,"['College_102', 'College_103']",Self-financed,9301234567
+C147,RST College of Medical Sciences,"202, River Road, City E",9301234567,286114,Dr. Neha Bhatia,32919,Available for Girls,No,Yes,No,"['College_109', 'College_110']",Government-aided,9123456789
+C148,ABC College of Engineering,"456, High Road, City B",9456127890,664796,Dr. Manisha Rao,30199,Available for Boys,Yes,No,No,"['College_165', 'College_166']",Self-financed,9123456789
+C149,DEF University,"707, Birch Street, City J",9876543210,911450,Prof. Arvind Sharma,36856,Available for Both,No,No,No,"['College_188', 'College_189']",Self-financed,9876543210
+C150,UVW Institute of Design,"202, River Road, City E",9609876543,963587,Dr. Manisha Rao,41692,Available for Boys,Yes,No,No,"['College_198', 'College_199']",Self-financed,9988776655
+C151,XYZ Institute of Technology,"123, Main Street, City A",9234567890,190011,Prof. Anjali Patel,42012,Available for Both,No,No,No,"['College_137', 'College_138']",Government-aided,9123456789
+C152,MNO School of Business,"123, Main Street, City A",9876543210,219708,Prof. Arvind Sharma,26811,Not Available,No,No,Yes,"['College_184', 'College_185']",Government,9234567890
+C153,RST College of Medical Sciences,"404, Oak Street, City G",9988776655,578066,Dr. Praveen Mehta,28965,Available for Boys,Yes,No,Yes,"['College_108', 'College_109']",Government-aided,9301234567
+C154,XYZ Institute of Technology,"456, High Road, City B",9301234567,137217,Dr. Ramesh Nair,36500,Not Available,No,No,Yes,"['College_117', 'College_118']",Government-aided,9123456789
+C155,JKL College of Law,"456, High Road, City B",9609876543,999130,Dr. Neha Bhatia,49302,Available for Boys,Yes,No,No,"['College_114', 'College_115']",Government-aided,9008765432
+C156,PQR College of Arts,"303, Elm Street, City F",9876543210,759399,Dr. Praveen Mehta,25868,Available for Both,No,No,No,"['College_148', 'College_149']",Government,9008765432
+C157,LMN College of Science,"303, Elm Street, City F",9182736450,645421,Prof. Sunita Verma,42723,Limited,No,No,Yes,"['College_151', 'College_152']",Self-financed,9988776655
+C158,XYZ Institute of Technology,"505, Maple Street, City H",9234567890,998791,Prof. Sunita Verma,30928,Available for Boys,Yes,No,No,"['College_136', 'College_137']",Government-aided,9609876543
+C159,DEF University,"606, Pine Street, City I",9123456789,109954,Prof. Sunita Verma,29272,Not Available,No,No,Yes,"['College_194', 'College_195']",Self-financed,9301234567
+C160,RST College of Medical Sciences,"606, Pine Street, City I",9456127890,688291,Prof. Sunita Verma,47969,Available,No,No,No,"['College_171', 'College_172']",Self-financed,9301234567
+C161,LMN College of Science,"505, Maple Street, City H",9609876543,811439,Dr. Manisha Rao,38721,Not Available,No,No,No,"['College_175', 'College_176']",Government-aided,9045671234
+C162,XYZ Institute of Technology,"404, Oak Street, City G",9456127890,508005,Prof. Arvind Sharma,35732,Not Available,No,No,No,"['College_168', 'College_169']",Government-aided,9301234567
+C163,GHI Institute of Management,"456, High Road, City B",9988776655,459607,Prof. Arvind Sharma,36321,Available for Boys,Yes,No,No,"['College_188', 'College_189']",Government-aided,9456127890
+C164,DEF University,"707, Birch Street, City J",9988776655,258388,Prof. Anjali Patel,25705,Available,No,No,Yes,"['College_100', 'College_101']",Self-financed,9234567890
+C165,JKL College of Law,"789, Park Avenue, City C",9008765432,900274,Prof. Vikram Singh,21108,Available for Both,No,No,Yes,"['College_114', 'College_115']",Self-financed,9301234567
+C166,MNO School of Business,"606, Pine Street, City I",9988776655,409167,Prof. Vikram Singh,45521,Available for Boys,Yes,No,No,"['College_106', 'College_107']",Government,9456127890
+C167,ABC College of Engineering,"202, River Road, City E",9456127890,736664,Prof. Sandeep Jha,26137,Available for Girls,No,Yes,Yes,"['College_156', 'College_157']",Government-aided,9876543210
+C168,DEF University,"303, Elm Street, City F",9609876543,542475,Dr. Praveen Mehta,36742,Limited,No,No,Yes,"['College_128', 'College_129']",Self-financed,9988776655
+C169,RST College of Medical Sciences,"101, Sunset Boulevard, City D",9008765432,602406,Prof. Sunita Verma,43324,Available for Both,No,No,No,"['College_185', 'College_186']",Self-financed,9609876543
+C170,DEF University,"606, Pine Street, City I",9456127890,995642,Prof. Sunita Verma,36705,Available for Both,No,No,No,"['College_139', 'College_140']",Self-financed,9988776655
+C171,GHI Institute of Management,"202, River Road, City E",9045671234,654747,Dr. Ramesh Nair,29039,Not Available,No,No,Yes,"['College_180', 'College_181']",Government-aided,9456127890
+C172,ABC College of Engineering,"303, Elm Street, City F",9876543210,574309,Dr. Rajesh Kumar,30500,Available,No,No,Yes,"['College_184', 'College_185']",Government,9609876543
+C173,GHI Institute of Management,"505, Maple Street, City H",9182736450,104783,Dr. Rajesh Kumar,21988,Available,No,No,No,"['College_146', 'College_147']",Government-aided,9008765432
+C174,MNO School of Business,"101, Sunset Boulevard, City D",9008765432,283661,Prof. Vikram Singh,22765,Limited,No,No,Yes,"['College_130', 'College_131']",Government-aided,9988776655
+C175,LMN College of Science,"606, Pine Street, City I",9182736450,686756,Prof. Sunita Verma,24954,Available for Both,No,No,No,"['College_172', 'College_173']",Self-financed,9008765432
+C176,PQR College of Arts,"123, Main Street, City A",9456127890,157416,Prof. Sandeep Jha,22665,Available for Girls,No,Yes,No,"['College_184', 'College_185']",Government,9609876543
+C177,DEF University,"505, Maple Street, City H",9876543210,977944,Prof. Vikram Singh,25763,Not Available,No,No,No,"['College_126', 'College_127']",Government,9301234567
+C178,JKL College of Law,"505, Maple Street, City H",9988776655,332976,Prof. Sunita Verma,38152,Limited,No,No,Yes,"['College_122', 'College_123']",Government,9008765432
+C179,PQR College of Arts,"202, River Road, City E",9301234567,652499,Dr. Praveen Mehta,20250,Available for Both,No,No,No,"['College_171', 'College_172']",Government-aided,9234567890
+C180,MNO School of Business,"101, Sunset Boulevard, City D",9876543210,144060,Dr. Praveen Mehta,29029,Available for Girls,No,Yes,No,"['College_185', 'College_186']",Government-aided,9234567890
+C181,XYZ Institute of Technology,"505, Maple Street, City H",9609876543,955731,Dr. Rajesh Kumar,36719,Available for Boys,Yes,No,Yes,"['College_113', 'College_114']",Self-financed,9988776655
+C182,JKL College of Law,"202, River Road, City E",9045671234,892044,Dr. Praveen Mehta,35132,Not Available,No,No,Yes,"['College_123', 'College_124']",Government,9456127890
+C183,GHI Institute of Management,"202, River Road, City E",9876543210,659502,Dr. Rajesh Kumar,23562,Available for Girls,No,Yes,Yes,"['College_120', 'College_121']",Self-financed,9234567890
+C184,LMN College of Science,"202, River Road, City E",9234567890,689144,Dr. Praveen Mehta,48405,Available for Girls,No,Yes,Yes,"['College_185', 'College_186']",Self-financed,9609876543
+C185,RST College of Medical Sciences,"505, Maple Street, City H",9234567890,378891,Dr. Praveen Mehta,48121,Available for Boys,Yes,No,No,"['College_190', 'College_191']",Government-aided,9123456789
+C186,JKL College of Law,"101, Sunset Boulevard, City D",9609876543,720352,Dr. Rajesh Kumar,24130,Available for Both,No,No,No,"['College_106', 'College_107']",Government,9182736450
+C187,XYZ Institute of Technology,"303, Elm Street, City F",9182736450,247261,Prof. Vikram Singh,25253,Available for Both,No,No,No,"['College_194', 'College_195']",Self-financed,9301234567
+C188,JKL College of Law,"123, Main Street, City A",9456127890,153916,Dr. Neha Bhatia,48523,Available for Girls,No,Yes,Yes,"['College_121', 'College_122']",Self-financed,9456127890
+C189,RST College of Medical Sciences,"707, Birch Street, City J",9123456789,167918,Dr. Rajesh Kumar,42910,Available for Girls,No,Yes,No,"['College_142', 'College_143']",Government,9008765432
+C190,MNO School of Business,"101, Sunset Boulevard, City D",9234567890,964895,Dr. Ramesh Nair,31418,Available for Boys,Yes,No,No,"['College_154', 'College_155']",Self-financed,9234567890
+C191,LMN College of Science,"505, Maple Street, City H",9876543210,953936,Prof. Sandeep Jha,26405,Available for Both,No,No,Yes,"['College_127', 'College_128']",Government-aided,9045671234
+C192,XYZ Institute of Technology,"404, Oak Street, City G",9876543210,690423,Prof. Anjali Patel,31322,Available,No,No,Yes,"['College_180', 'College_181']",Government-aided,9456127890
+C193,MNO School of Business,"123, Main Street, City A",9045671234,601989,Dr. Neha Bhatia,30793,Available for Girls,No,Yes,No,"['College_162', 'College_163']",Government-aided,9123456789
+C194,JKL College of Law,"505, Maple Street, City H",9876543210,939534,Dr. Rajesh Kumar,29299,Limited,No,No,Yes,"['College_113', 'College_114']",Government,9301234567
+C195,PQR College of Arts,"101, Sunset Boulevard, City D",9876543210,870058,Prof. Vikram Singh,26104,Available for Boys,Yes,No,No,"['College_154', 'College_155']",Government,9008765432
+C196,MNO School of Business,"606, Pine Street, City I",9234567890,990290,Dr. Ramesh Nair,41751,Available for Boys,Yes,No,Yes,"['College_174', 'College_175']",Government,9234567890
+C197,JKL College of Law,"456, High Road, City B",9123456789,172535,Prof. Arvind Sharma,20697,Available for Girls,No,Yes,Yes,"['College_124', 'College_125']",Self-financed,9876543210
+C198,PQR College of Arts,"707, Birch Street, City J",9609876543,473349,Prof. Anjali Patel,25668,Available for Both,No,No,Yes,"['College_114', 'College_115']",Government,9301234567
+C199,ABC College of Engineering,"202, River Road, City E",9234567890,932926,Dr. Rajesh Kumar,20078,Limited,No,No,Yes,"['College_152', 'College_153']",Government,9045671234
+C200,XYZ Institute of Technology,"303, Elm Street, City F",9456127890,699130,Dr. Manisha Rao,25062,Available,No,No,No,"['College_151', 'College_152']",Government,9876543210
+C201,PQR College of Arts,"101, Sunset Boulevard, City D",9456127890,957358,Dr. Neha Bhatia,29589,Available for Both,No,No,Yes,"['College_144', 'College_145']",Self-financed,9234567890
+C202,GHI Institute of Management,"404, Oak Street, City G",9301234567,860311,Prof. Sunita Verma,45384,Limited,No,No,No,"['College_137', 'College_138']",Self-financed,9123456789
+C203,GHI Institute of Management,"202, River Road, City E",9123456789,617432,Prof. Sandeep Jha,26212,Available for Boys,Yes,No,No,"['College_138', 'College_139']",Self-financed,9045671234
+C204,JKL College of Law,"202, River Road, City E",9301234567,343511,Dr. Neha Bhatia,49677,Limited,No,No,No,"['College_165', 'College_166']",Government-aided,9045671234
+C205,DEF University,"707, Birch Street, City J",9456127890,639617,Prof. Arvind Sharma,32247,Available for Both,No,No,No,"['College_108', 'College_109']",Government,9876543210
+C206,GHI Institute of Management,"101, Sunset Boulevard, City D",9456127890,966052,Prof. Anjali Patel,31977,Available for Boys,Yes,No,Yes,"['College_167', 'College_168']",Self-financed,9123456789
+C207,ABC College of Engineering,"707, Birch Street, City J",9456127890,955533,Prof. Sunita Verma,43698,Not Available,No,No,Yes,"['College_161', 'College_162']",Government,9234567890
+C208,ABC College of Engineering,"707, Birch Street, City J",9123456789,787563,Prof. Vikram Singh,42172,Available for Boys,Yes,No,Yes,"['College_114', 'College_115']",Self-financed,9234567890
+C209,LMN College of Science,"505, Maple Street, City H",9301234567,952170,Prof. Vikram Singh,24144,Limited,No,No,Yes,"['College_122', 'College_123']",Self-financed,9876543210
+C210,XYZ Institute of Technology,"707, Birch Street, City J",9456127890,664297,Dr. Manisha Rao,41147,Available for Boys,Yes,No,No,"['College_142', 'College_143']",Government,9182736450
+C211,RST College of Medical Sciences,"456, High Road, City B",9234567890,862056,Prof. Sandeep Jha,29401,Available for Girls,No,Yes,Yes,"['College_164', 'College_165']",Self-financed,9301234567
+C212,PQR College of Arts,"202, River Road, City E",9876543210,936609,Prof. Anjali Patel,27847,Limited,No,No,Yes,"['College_153', 'College_154']",Government,9876543210
+C213,JKL College of Law,"707, Birch Street, City J",9456127890,169000,Prof. Sandeep Jha,28293,Not Available,No,No,Yes,"['College_131', 'College_132']",Self-financed,9988776655
+C214,GHI Institute of Management,"123, Main Street, City A",9008765432,368017,Prof. Arvind Sharma,35763,Available for Both,No,No,No,"['College_149', 'College_150']",Government-aided,9609876543
+C215,JKL College of Law,"101, Sunset Boulevard, City D",9008765432,519080,Dr. Praveen Mehta,25630,Available for Girls,No,Yes,Yes,"['College_106', 'College_107']",Government-aided,9609876543
+C216,RST College of Medical Sciences,"456, High Road, City B",9609876543,211236,Dr. Manisha Rao,22910,Available for Both,No,No,Yes,"['College_154', 'College_155']",Self-financed,9234567890
+C217,RST College of Medical Sciences,"456, High Road, City B",9609876543,541470,Prof. Arvind Sharma,22026,Available,No,No,No,"['College_181', 'College_182']",Government,9182736450
+C218,XYZ Institute of Technology,"505, Maple Street, City H",9123456789,220468,Prof. Sunita Verma,45889,Available for Both,No,No,Yes,"['College_107', 'College_108']",Government,9123456789
+C219,DEF University,"202, River Road, City E",9301234567,985466,Dr. Ramesh Nair,37783,Not Available,No,No,Yes,"['College_130', 'College_131']",Government-aided,9234567890
+C220,GHI Institute of Management,"606, Pine Street, City I",9045671234,325473,Dr. Neha Bhatia,32921,Available for Boys,Yes,No,No,"['College_147', 'College_148']",Government-aided,9123456789
+C221,LMN College of Science,"101, Sunset Boulevard, City D",9301234567,643318,Dr. Ramesh Nair,31021,Available,No,No,No,"['College_106', 'College_107']",Government-aided,9609876543
+C222,JKL College of Law,"707, Birch Street, City J",9045671234,839816,Prof. Vikram Singh,45071,Limited,No,No,No,"['College_149', 'College_150']",Self-financed,9609876543
+C223,RST College of Medical Sciences,"707, Birch Street, City J",9123456789,163418,Dr. Manisha Rao,43276,Available for Both,No,No,No,"['College_110', 'College_111']",Government,9301234567
+C224,MNO School of Business,"606, Pine Street, City I",9182736450,869255,Dr. Manisha Rao,20853,Available for Girls,No,Yes,No,"['College_192', 'College_193']",Government-aided,9045671234
+C225,UVW Institute of Design,"303, Elm Street, City F",9876543210,852936,Dr. Ramesh Nair,27950,Limited,No,No,Yes,"['College_199', 'College_200']",Government,9301234567
+C226,PQR College of Arts,"707, Birch Street, City J",9876543210,434057,Prof. Sandeep Jha,35055,Limited,No,No,No,"['College_174', 'College_175']",Government-aided,9123456789
+C227,GHI Institute of Management,"606, Pine Street, City I",9045671234,449219,Prof. Sandeep Jha,40853,Available for Boys,Yes,No,Yes,"['College_198', 'College_199']",Government-aided,9045671234
+C228,DEF University,"123, Main Street, City A",9008765432,725804,Prof. Anjali Patel,35707,Available for Boys,Yes,No,No,"['College_113', 'College_114']",Self-financed,9182736450
+C229,RST College of Medical Sciences,"606, Pine Street, City I",9876543210,101488,Dr. Praveen Mehta,47540,Available,No,No,Yes,"['College_197', 'College_198']",Government,9609876543
+C230,DEF University,"101, Sunset Boulevard, City D",9182736450,962959,Dr. Praveen Mehta,34192,Available,No,No,No,"['College_150', 'College_151']",Government,9045671234
+C231,DEF University,"202, River Road, City E",9301234567,784550,Prof. Arvind Sharma,35848,Available for Both,No,No,No,"['College_118', 'College_119']",Self-financed,9876543210
+C232,XYZ Institute of Technology,"404, Oak Street, City G",9045671234,715680,Dr. Rajesh Kumar,31272,Limited,No,No,No,"['College_163', 'College_164']",Government,9234567890
+C233,PQR College of Arts,"707, Birch Street, City J",9123456789,459369,Dr. Ramesh Nair,20062,Available for Girls,No,Yes,Yes,"['College_176', 'College_177']",Government-aided,9301234567
+C234,LMN College of Science,"505, Maple Street, City H",9182736450,828032,Prof. Vikram Singh,45437,Limited,No,No,No,"['College_185', 'College_186']",Government,9182736450
+C235,MNO School of Business,"303, Elm Street, City F",9456127890,268437,Prof. Vikram Singh,22453,Available,No,No,No,"['College_199', 'College_200']",Government-aided,9301234567
+C236,RST College of Medical Sciences,"505, Maple Street, City H",9182736450,949554,Prof. Anjali Patel,35911,Not Available,No,No,Yes,"['College_180', 'College_181']",Government,9008765432
+C237,RST College of Medical Sciences,"202, River Road, City E",9045671234,324212,Prof. Vikram Singh,34617,Not Available,No,No,No,"['College_99', 'College_100']",Government,9301234567
+C238,RST College of Medical Sciences,"404, Oak Street, City G",9876543210,766834,Dr. Manisha Rao,22650,Not Available,No,No,Yes,"['College_182', 'College_183']",Government,9876543210
+C239,XYZ Institute of Technology,"123, Main Street, City A",9234567890,621812,Dr. Rajesh Kumar,22951,Limited,No,No,Yes,"['College_192', 'College_193']",Self-financed,9123456789
+C240,JKL College of Law,"303, Elm Street, City F",9123456789,911863,Dr. Ramesh Nair,23939,Not Available,No,No,Yes,"['College_171', 'College_172']",Government,9456127890
+C241,DEF University,"404, Oak Street, City G",9456127890,203122,Dr. Praveen Mehta,46471,Available for Boys,Yes,No,No,"['College_131', 'College_132']",Self-financed,9301234567
+C242,LMN College of Science,"456, High Road, City B",9456127890,104980,Dr. Rajesh Kumar,35131,Available,No,No,Yes,"['College_112', 'College_113']",Self-financed,9123456789
+C243,ABC College of Engineering,"707, Birch Street, City J",9988776655,928952,Prof. Sandeep Jha,43089,Available for Both,No,No,Yes,"['College_139', 'College_140']",Self-financed,9301234567
+C244,PQR College of Arts,"101, Sunset Boulevard, City D",9182736450,557079,Dr. Praveen Mehta,33243,Available for Girls,No,Yes,No,"['College_147', 'College_148']",Self-financed,9234567890
+C245,MNO School of Business,"101, Sunset Boulevard, City D",9182736450,207564,Prof. Sunita Verma,49617,Limited,No,No,Yes,"['College_159', 'College_160']",Self-financed,9609876543
+C246,PQR College of Arts,"404, Oak Street, City G",9008765432,635468,Prof. Sandeep Jha,20339,Not Available,No,No,Yes,"['College_100', 'College_101']",Self-financed,9876543210
+C247,RST College of Medical Sciences,"456, High Road, City B",9609876543,708087,Dr. Praveen Mehta,44078,Available for Girls,No,Yes,No,"['College_122', 'College_123']",Self-financed,9182736450
+C248,DEF University,"789, Park Avenue, City C",9301234567,153022,Prof. Arvind Sharma,21363,Available for Both,No,No,No,"['College_132', 'College_133']",Government,9045671234
+C249,JKL College of Law,"123, Main Street, City A",9234567890,383482,Prof. Sunita Verma,25287,Limited,No,No,Yes,"['College_190', 'College_191']",Government-aided,9609876543
+C250,GHI Institute of Management,"606, Pine Street, City I",9008765432,373640,Prof. Sandeep Jha,25285,Available for Both,No,No,No,"['College_109', 'College_110']",Government,9988776655
+C251,ABC College of Engineering,"606, Pine Street, City I",9988776655,953872,Dr. Rajesh Kumar,27510,Available,No,No,Yes,"['College_110', 'College_111']",Self-financed,9008765432
+C252,UVW Institute of Design,"303, Elm Street, City F",9123456789,439576,Dr. Ramesh Nair,35425,Available,No,No,No,"['College_103', 'College_104']",Government-aided,9988776655
+C253,UVW Institute of Design,"789, Park Avenue, City C",9876543210,641566,Prof. Sandeep Jha,22842,Available,No,No,No,"['College_99', 'College_100']",Self-financed,9456127890
+C254,DEF University,"404, Oak Street, City G",9045671234,330064,Prof. Sunita Verma,32698,Available for Both,No,No,Yes,"['College_144', 'College_145']",Government,9301234567
+C255,XYZ Institute of Technology,"202, River Road, City E",9123456789,738343,Dr. Manisha Rao,46419,Available,No,No,No,"['College_170', 'College_171']",Government-aided,9609876543
+C256,UVW Institute of Design,"707, Birch Street, City J",9988776655,201012,Prof. Vikram Singh,32508,Not Available,No,No,Yes,"['College_120', 'College_121']",Self-financed,9045671234
+C257,XYZ Institute of Technology,"303, Elm Street, City F",9456127890,300600,Prof. Arvind Sharma,45782,Available for Girls,No,Yes,No,"['College_130', 'College_131']",Government-aided,9301234567
+C258,DEF University,"505, Maple Street, City H",9609876543,464505,Dr. Neha Bhatia,23773,Limited,No,No,Yes,"['College_150', 'College_151']",Government-aided,9045671234
+C259,JKL College of Law,"123, Main Street, City A",9988776655,760661,Prof. Sunita Verma,48184,Available for Boys,Yes,No,No,"['College_109', 'College_110']",Government,9456127890
+C260,UVW Institute of Design,"303, Elm Street, City F",9876543210,892182,Dr. Neha Bhatia,38207,Limited,No,No,Yes,"['College_104', 'College_105']",Self-financed,9301234567
+C261,XYZ Institute of Technology,"606, Pine Street, City I",9234567890,447995,Dr. Rajesh Kumar,43949,Available for Girls,No,Yes,No,"['College_126', 'College_127']",Self-financed,9008765432
+C262,LMN College of Science,"101, Sunset Boulevard, City D",9045671234,897635,Dr. Ramesh Nair,40632,Available for Boys,Yes,No,No,"['College_194', 'College_195']",Government-aided,9234567890
+C263,DEF University,"202, River Road, City E",9301234567,906100,Prof. Anjali Patel,42771,Limited,No,No,Yes,"['College_177', 'College_178']",Government-aided,9045671234
+C264,XYZ Institute of Technology,"303, Elm Street, City F",9182736450,691081,Prof. Vikram Singh,27037,Available for Both,No,No,Yes,"['College_140', 'College_141']",Self-financed,9876543210
+C265,JKL College of Law,"123, Main Street, City A",9988776655,696163,Dr. Ramesh Nair,39236,Available,No,No,Yes,"['College_148', 'College_149']",Self-financed,9988776655
+C266,LMN College of Science,"456, High Road, City B",9301234567,530869,Prof. Arvind Sharma,27095,Available for Boys,Yes,No,No,"['College_185', 'College_186']",Self-financed,9456127890
+C267,PQR College of Arts,"606, Pine Street, City I",9182736450,574117,Dr. Manisha Rao,42959,Limited,No,No,No,"['College_168', 'College_169']",Self-financed,9123456789
+C268,XYZ Institute of Technology,"404, Oak Street, City G",9988776655,480993,Prof. Sandeep Jha,36900,Not Available,No,No,No,"['College_143', 'College_144']",Government-aided,9123456789
+C269,UVW Institute of Design,"303, Elm Street, City F",9609876543,575807,Prof. Sandeep Jha,45858,Available for Girls,No,Yes,No,"['College_153', 'College_154']",Government,9045671234
+C270,LMN College of Science,"101, Sunset Boulevard, City D",9609876543,344599,Dr. Neha Bhatia,37242,Available for Boys,Yes,No,Yes,"['College_138', 'College_139']",Self-financed,9123456789
+C271,ABC College of Engineering,"303, Elm Street, City F",9008765432,843189,Dr. Praveen Mehta,21932,Available for Girls,No,Yes,No,"['College_183', 'College_184']",Government-aided,9301234567
+C272,PQR College of Arts,"505, Maple Street, City H",9988776655,325497,Dr. Rajesh Kumar,23313,Available for Boys,Yes,No,Yes,"['College_197', 'College_198']",Government,9234567890
+C273,LMN College of Science,"606, Pine Street, City I",9609876543,209332,Dr. Neha Bhatia,39704,Available for Boys,Yes,No,No,"['College_119', 'College_120']",Self-financed,9045671234
+C274,GHI Institute of Management,"303, Elm Street, City F",9988776655,767727,Dr. Neha Bhatia,47212,Available for Boys,Yes,No,Yes,"['College_124', 'College_125']",Government,9456127890
+C275,RST College of Medical Sciences,"101, Sunset Boulevard, City D",9123456789,925935,Dr. Praveen Mehta,21798,Available for Boys,Yes,No,No,"['College_173', 'College_174']",Government,9988776655
+C276,GHI Institute of Management,"404, Oak Street, City G",9301234567,753836,Dr. Rajesh Kumar,26065,Available for Girls,No,Yes,No,"['College_143', 'College_144']",Self-financed,9234567890
+C277,DEF University,"202, River Road, City E",9045671234,592195,Prof. Anjali Patel,40037,Limited,No,No,No,"['College_179', 'College_180']",Self-financed,9123456789
+C278,GHI Institute of Management,"303, Elm Street, City F",9609876543,924780,Dr. Ramesh Nair,35140,Limited,No,No,Yes,"['College_128', 'College_129']",Government,9123456789
+C279,MNO School of Business,"707, Birch Street, City J",9123456789,514639,Dr. Ramesh Nair,29707,Available for Boys,Yes,No,No,"['College_181', 'College_182']",Self-financed,9234567890
+C280,GHI Institute of Management,"202, River Road, City E",9988776655,748844,Dr. Manisha Rao,35916,Available for Both,No,No,No,"['College_102', 'College_103']",Self-financed,9456127890
+C281,MNO School of Business,"101, Sunset Boulevard, City D",9988776655,348586,Prof. Sunita Verma,22738,Available for Boys,Yes,No,Yes,"['College_138', 'College_139']",Government-aided,9123456789
+C282,RST College of Medical Sciences,"456, High Road, City B",9123456789,272712,Prof. Sandeep Jha,30879,Available,No,No,No,"['College_164', 'College_165']",Self-financed,9876543210
+C283,LMN College of Science,"606, Pine Street, City I",9045671234,652397,Prof. Sandeep Jha,20429,Available for Both,No,No,No,"['College_117', 'College_118']",Government-aided,9988776655
+C284,PQR College of Arts,"303, Elm Street, City F",9609876543,839954,Prof. Arvind Sharma,38232,Limited,No,No,Yes,"['College_162', 'College_163']",Government-aided,9301234567
+C285,RST College of Medical Sciences,"303, Elm Street, City F",9123456789,674300,Dr. Praveen Mehta,28556,Available,No,No,Yes,"['College_148', 'College_149']",Self-financed,9045671234
+C286,JKL College of Law,"404, Oak Street, City G",9182736450,685906,Dr. Neha Bhatia,21647,Limited,No,No,Yes,"['College_116', 'College_117']",Government,9988776655
+C287,RST College of Medical Sciences,"505, Maple Street, City H",9456127890,570902,Dr. Neha Bhatia,29570,Available for Girls,No,Yes,Yes,"['College_119', 'College_120']",Government-aided,9234567890
+C288,XYZ Institute of Technology,"707, Birch Street, City J",9876543210,456232,Prof. Arvind Sharma,36833,Available for Both,No,No,Yes,"['College_173', 'College_174']",Government-aided,9988776655
+C289,ABC College of Engineering,"505, Maple Street, City H",9008765432,560177,Dr. Praveen Mehta,41332,Available,No,No,No,"['College_174', 'College_175']",Self-financed,9876543210
+C290,UVW Institute of Design,"404, Oak Street, City G",9988776655,341036,Dr. Manisha Rao,20583,Not Available,No,No,No,"['College_132', 'College_133']",Government,9045671234
+C291,ABC College of Engineering,"707, Birch Street, City J",9876543210,583258,Dr. Praveen Mehta,36880,Available for Boys,Yes,No,Yes,"['College_157', 'College_158']",Government-aided,9045671234
+C292,LMN College of Science,"606, Pine Street, City I",9456127890,881041,Dr. Ramesh Nair,40934,Limited,No,No,Yes,"['College_129', 'College_130']",Government,9234567890
+C293,PQR College of Arts,"303, Elm Street, City F",9182736450,877563,Prof. Anjali Patel,47027,Available,No,No,Yes,"['College_196', 'College_197']",Government,9182736450
+C294,DEF University,"101, Sunset Boulevard, City D",9234567890,164619,Prof. Arvind Sharma,30150,Not Available,No,No,Yes,"['College_180', 'College_181']",Self-financed,9301234567
+C295,UVW Institute of Design,"123, Main Street, City A",9234567890,401582,Dr. Rajesh Kumar,23050,Available for Both,No,No,Yes,"['College_152', 'College_153']",Government-aided,9876543210
+C296,LMN College of Science,"789, Park Avenue, City C",9988776655,891316,Prof. Arvind Sharma,26000,Limited,No,No,Yes,"['College_155', 'College_156']",Self-financed,9876543210
+C297,LMN College of Science,"202, River Road, City E",9609876543,135964,Prof. Anjali Patel,28432,Not Available,No,No,No,"['College_170', 'College_171']",Self-financed,9045671234
+C298,UVW Institute of Design,"789, Park Avenue, City C",9456127890,145285,Dr. Neha Bhatia,29693,Not Available,No,No,No,"['College_106', 'College_107']",Self-financed,9234567890
+C299,ABC College of Engineering,"303, Elm Street, City F",9609876543,271581,Prof. Anjali Patel,23046,Available for Boys,Yes,No,Yes,"['College_121', 'College_122']",Government,9301234567
+C300,XYZ Institute of Technology,"606, Pine Street, City I",9045671234,990109,Dr. Ramesh Nair,28376,Limited,No,No,No,"['College_190', 'College_191']",Government-aided,9182736450

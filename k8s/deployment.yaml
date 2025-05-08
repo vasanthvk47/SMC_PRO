@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ml-flask-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ml-flask
+  template:
+    metadata:
+      labels:
+        app: ml-flask
+    spec:
+      containers:
+      - name: flask-container
+        image: vasanth4747/education-animation:v1
+        ports:
+        - containerPort: 5000
